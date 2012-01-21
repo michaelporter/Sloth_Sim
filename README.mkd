@@ -12,7 +12,7 @@ Sample Starting Sloth Sanctuary:
              "###################"]
 
 
-I started this primarily as a personal challenge with two simple markers of success: a self-contained environmental status quo within the 'sanctuary' (following patterns of population rise and fall characteristic of healthy ecosystems), and a semblance of what one could call 'purpose' in the lives of the sloths--such that they achieve a variety of 'life'-enhancing goals over their lifetimes (also my girlfriend really like sloths). This has not yet been achieved in full, but it is in sight.
+I started this primarily as a personal challenge with two simple markers of success: a self-contained environmental status quo within the 'sanctuary' (following patterns of population rise and fall characteristic of healthy ecosystems), and a semblance of what one could call 'purpose' in the lives of the sloths--such that they achieve a variety of 'life'-enhancing goals over their lifetimes (also my girlfriend really likes sloths). This has not yet been achieved in full, but it is in sight.
 
 1. Future Enhancements:
   * Greater awareness within the sloths of their surroundings and the properties of the nearby inhabitants
