@@ -122,3 +122,4 @@ class Sloth
     @has_mated = rand(9)+3
   end
 end
+

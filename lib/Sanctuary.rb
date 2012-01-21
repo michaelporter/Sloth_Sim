@@ -195,3 +195,4 @@ class Sanctuary
     puts @sanc
   end
 end
+

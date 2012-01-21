@@ -5,4 +5,6 @@ class Creature
     @grid = grid
   end
 
+#much work to be done...
+
 end

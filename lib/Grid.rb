@@ -26,3 +26,4 @@ class GridMaker < Hash
     @sanc
   end
 end
+
