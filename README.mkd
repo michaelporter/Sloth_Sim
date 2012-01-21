@@ -5,18 +5,12 @@ I started this primarily as a personal challenge, with no ulterior goal in mind,
   * Variety of plants
   * Predatory creatures and poisonous plants
   * Environmental changes (drought, rainy seasons, etc)
-  * Sloth maturation scale -- alive for a certain number of turns, and their abilities change in some degrees. 
-  > Cannot reproduce until aged 3-4
-  > Get more nutrients aged 0-4
-  > Travel further aged 1-3
-  > Time between movements decreases from 1-5, then decreases from 5-end
-  * Simple evolution, through inheritance from parents during mating.
-  > Sexual selectivity -- will not mate with sloths too closely related.
+  * Sloth maturation scale -- alive for a certain number of turns, and their 		abilities change in some degrees. (ie. Cannot reproduce until aged 		3-4; Get more nutrients aged 0-4; Travel further aged 1-3; Time 	between movements) decreases from 1-5, then decreases from 5-end
+  * Simple evolution, through inheritance from parents during mating. (ie. 	   Sexual selectivity -- will not mate with sloths too closely related.)
   * Randomised numbers of all characters in each simulation
 
 
 
 
 2. Things to do Now-ish:
-  * Add ranking to possible directional moves for every sloth.
-  > Perhaps some sloths start with lesser abilities in this regard; this ability, too, can then be inherited by the offspring.
+  * Add ranking to possible directional moves for every sloth. (Perhaps some sloths start with lesser abilities in this regard; this ability, too, can then be inherited by the offspring.)
