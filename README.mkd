@@ -13,7 +13,7 @@ Sample Starting Sloth Sanctuary:
 
 I started this primarily as a personal challenge with two simple markers of success: a self-contained environmental status quo within the 'sanctuary' (following patterns of population rise and fall characteristic of healthy ecosystems), and a semblance of what one could call 'purpose' in the lives of the sloths--such that they achieve a variety of 'life'-enhancing goals over their lifetimes. This has not yet been achieved in full, but it is in sight.
 
-1. Future Enhancements:
+Future Enhancements:
   * Greater awareness within the sloths of their surroundings and the properties of the nearby inhabitants
   * Variety of plants
   * Predatory creatures and poisonous plants
@@ -21,9 +21,3 @@ I started this primarily as a personal challenge with two simple markers of succ
   * Sloth maturation scale -- alive for a certain number of turns, and their 		abilities change in some degrees. (ie. Cannot reproduce until aged 		3-4; Get more nutrients aged 0-4; Travel further aged 1-3; Time 	between movements) decreases from 1-5, then decreases from 5-end
   * Simple evolution, through inheritance from parents during mating. (ie. 	   Sexual selectivity -- will not mate with sloths too closely related.)
   * Randomised numbers of all characters in each simulation
-
-
-
-
-2. Things to do Now-ish:
-  * Add ranking to possible directional moves for every sloth. (Perhaps some sloths start with lesser abilities in this regard; this ability, too, can then be inherited by the offspring.)
